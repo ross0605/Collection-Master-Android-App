@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:3:1-46:12
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:3:1-46:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\e781d8f9eea1451667fb3c447e6ccbc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\9920e419be776115559098cbe57383f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a7714a08fa9d891fd2ea524aac010c51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\af03e3c27754a63268d3b52f12618a40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jsibbold:zoomage:1.1.0] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\zoomage-1.1.0.aar\d5829ac13b3a6be0b89885a3c597165c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\e462cb5676fa84bf474f9da7c0e987ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ee293d7150c1c01e9c5357229c0388b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f72f164626833d01ffefd29d9ab7243\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\74cca378fcc467d100cae9057e4ffbbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b32b7933164f9dbd14c7489add7ac464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\f419c5d72492ee6164ecd7d356dc9181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e6c3d19fed935bb61783b5e856d08913\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\91d33bfd419445baf109ea24eb9d2b64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\bcc0c4322701a11676a7e77218eacd37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8b22e512f9d3f226c906b9e676430482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\71230ccfab616b30249b754da64ee3f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\66444245684ead847fc444b8ba4b3764\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:3:1-46:12
+	package
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:4:5-47
+		INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:8:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:12:19-67
+application
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:15:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ee293d7150c1c01e9c5357229c0388b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ee293d7150c1c01e9c5357229c0388b\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:19:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:21:9-24:20
+	android:label
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:22:19-51
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:21:19-49
+activity#com.example.android.camera2basic.MainActivity
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:26:9-33:20
+	android:configChanges
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:26:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.android.camera2basic.AlbumActivity
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:35:9-37:48
+	android:configChanges
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:36:13-59
+	android:theme
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:37:13-46
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:35:19-48
+activity#com.example.android.camera2basic.GalleryPreview
+ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:39:9-41:48
+	android:configChanges
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:40:13-59
+	android:theme
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:41:13-46
+	android:name
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml:39:19-49
+uses-sdk
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\e781d8f9eea1451667fb3c447e6ccbc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\e781d8f9eea1451667fb3c447e6ccbc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\9920e419be776115559098cbe57383f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\9920e419be776115559098cbe57383f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a7714a08fa9d891fd2ea524aac010c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a7714a08fa9d891fd2ea524aac010c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\af03e3c27754a63268d3b52f12618a40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\af03e3c27754a63268d3b52f12618a40\AndroidManifest.xml:20:5-44
+MERGED from [com.jsibbold:zoomage:1.1.0] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\zoomage-1.1.0.aar\d5829ac13b3a6be0b89885a3c597165c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jsibbold:zoomage:1.1.0] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\zoomage-1.1.0.aar\d5829ac13b3a6be0b89885a3c597165c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\e462cb5676fa84bf474f9da7c0e987ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\e462cb5676fa84bf474f9da7c0e987ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ee293d7150c1c01e9c5357229c0388b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ee293d7150c1c01e9c5357229c0388b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f72f164626833d01ffefd29d9ab7243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f72f164626833d01ffefd29d9ab7243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\74cca378fcc467d100cae9057e4ffbbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\74cca378fcc467d100cae9057e4ffbbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b32b7933164f9dbd14c7489add7ac464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b32b7933164f9dbd14c7489add7ac464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\f419c5d72492ee6164ecd7d356dc9181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\f419c5d72492ee6164ecd7d356dc9181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e6c3d19fed935bb61783b5e856d08913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e6c3d19fed935bb61783b5e856d08913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\91d33bfd419445baf109ea24eb9d2b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\91d33bfd419445baf109ea24eb9d2b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\bcc0c4322701a11676a7e77218eacd37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\bcc0c4322701a11676a7e77218eacd37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8b22e512f9d3f226c906b9e676430482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8b22e512f9d3f226c906b9e676430482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\71230ccfab616b30249b754da64ee3f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\71230ccfab616b30249b754da64ee3f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\66444245684ead847fc444b8ba4b3764\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ross0\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\66444245684ead847fc444b8ba4b3764\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ross0\Contacts\Collection Master\Application\src\main\AndroidManifest.xml
