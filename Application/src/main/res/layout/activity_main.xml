@@ -77,7 +77,7 @@ app:elevation="0dp" />
         android:ems="10"
         android:background="#ffffff"
         android:inputType="textPersonName"
-        android:hint="Album Name"
+        android:hint="New Album"
         android:visibility="invisible"/>
 
     <android.support.design.widget.FloatingActionButton

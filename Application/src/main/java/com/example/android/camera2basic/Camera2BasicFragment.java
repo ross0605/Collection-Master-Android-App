@@ -450,7 +450,16 @@ public class Camera2BasicFragment extends Fragment
         view.findViewById(R.id.picture).setOnClickListener(this);
         view.findViewById(R.id.info).setOnClickListener(this);
         mTextureView = (AutoFitTextureView) view.findViewById(R.id.texture);
+
+        view.findViewById(R.id.backActivity).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+
+                getActivity().onBackPressed();
+
+            }
+        });
     }
+
 
 
     @Override
